@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E73ED&height=120&section=header"/>
 
-✅ 🐞 🚀 🧑‍💻 📝 💾 🤖 🚀
 
 ## Olá! Esse é o meu perfil profissional!👋
+
+✅ 🐞 🚀 🧑‍💻 📝 💾 🤖 🚀
 
 Sou um **Analista de Qualidade - QA Sênior** com **10 anos de experiência**, especializado em testes manuais. Meu compromisso é garantir a qualidade de software e agregar valor a todos os projetos nos quais estou envolvido.
 
@@ -29,7 +30,7 @@ Sou um **Analista de Qualidade - QA Sênior** com **10 anos de experiência**, e
 
 ## 🙏 **Agradecimentos**
 
-Obrigado por visitar meu perfil no GitHub! Estou empolgado para explorar novas oportunidades de colaboração e contribuir para o sucesso de projetos inovadores.
+**Obrigado por visitar meu perfil no GitHub! Estou empolgado para explorar novas oportunidades de colaboração e contribuir para o sucesso de projetos inovadores.**
 
 ---
 
@@ -64,7 +65,9 @@ I am a **Senior QA Analyst** with **10 years of experience**, specialized in man
 
 ## 🙏 **Thanks**
 
-Thank you for visiting my GitHub profile! I am excited to explore new collaboration opportunities and contribute to the success of innovative projects.
+**Thank you for visiting my GitHub profile! I am excited to explore new collaboration opportunities and contribute to the success of innovative projects.**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wprat3s&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
