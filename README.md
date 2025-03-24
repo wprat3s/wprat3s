@@ -34,7 +34,6 @@ Sou um **Analista de Qualidade - QA Sênior** com **10 anos de experiência**, e
 
 ---
 
-### English Version
 
 ✅ 🐞 🚀 🧑‍💻 📝 💾 🤖 🚀
 
